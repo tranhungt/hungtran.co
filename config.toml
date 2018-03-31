@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Thoughts, Ideas, and Intrigue"
+author = "Hung Tran"
+theme = "zen"
